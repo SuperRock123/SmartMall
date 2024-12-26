@@ -12,36 +12,36 @@ SmartMall is a front end web project based on vue 2 including vue-cli, vuex, vue
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">shopping cart</span>
 
-​	![屏幕截图 2024-12-26 194403](images\屏幕截图 2024-12-26 194403.png)
+​	<img src="images\屏幕截图 2024-12-26 194403.png" alt="屏幕截图 2024-12-26 194403" />
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">login&register</span>
 
-![屏幕截图 2024-12-26 114656](images\屏幕截图 2024-12-26 114656.png)
+<img src="images\屏幕截图 2024-12-26 114656.png" alt="屏幕截图 2024-12-26 114656" />
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">product detail</span>
 
 
-​	![屏幕截图 2024-12-26 194044](images\屏幕截图 2024-12-26 194044.png)
+​	<img src="images\屏幕截图 2024-12-26 194044.png" alt="屏幕截图 2024-12-26 194044" />
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">add to cart</span>
 
 
-​	![屏幕截图 2024-12-26 194224](images\屏幕截图 2024-12-26 194224.png)
+​	<img src="images\屏幕截图 2024-12-26 194224.png" alt="屏幕截图 2024-12-26 194224" />
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">product riview</span>
 
 
-​	![屏幕截图 2024-12-26 194136](images\屏幕截图 2024-12-26 194136.png)
+​	<img src="images\屏幕截图 2024-12-26 194136.png" alt="屏幕截图 2024-12-26 194136" />
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">search</span>
 
 
-​	![屏幕截图 2024-12-26 192941](images\屏幕截图 2024-12-26 192941.png)
+​	<img src="images\屏幕截图 2024-12-26 192941.png" alt="屏幕截图 2024-12-26 192941" />
 
 these are just a small fragment of all the features, *download* to explore✨ more.
 
