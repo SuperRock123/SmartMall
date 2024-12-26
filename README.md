@@ -8,40 +8,40 @@ SmartMall is a front end web project based on vue 2 including vue-cli, vuex, vue
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">homepage</span>
 
-  <img src="images\屏幕截图 2024-12-26 113542.png" alt="image-20241226114404840" />
+  <img src="images\屏幕截图 2024-12-26 113542.png" alt="image-20241226114404840" style="width:330px" />
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">shopping cart</span>
 
-​	<img src="images\屏幕截图 2024-12-26 194403.png" alt="屏幕截图 2024-12-26 194403" />
+​	<img src="images\屏幕截图 2024-12-26 194403.png" alt="屏幕截图 2024-12-26 194403" style="width:330px"/>
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">login&register</span>
 
-<img src="images\屏幕截图 2024-12-26 114656.png" alt="屏幕截图 2024-12-26 114656" />
+<img src="images\屏幕截图 2024-12-26 114656.png" alt="屏幕截图 2024-12-26 114656" style="width:330px"/>
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">product detail</span>
 
 
-​	<img src="images\屏幕截图 2024-12-26 194044.png" alt="屏幕截图 2024-12-26 194044" />
+​	<img src="images\屏幕截图 2024-12-26 194044.png" alt="屏幕截图 2024-12-26 194044" style="width:330px"/>
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">add to cart</span>
 
 
-​	<img src="images\屏幕截图 2024-12-26 194224.png" alt="屏幕截图 2024-12-26 194224" />
+​	<img src="images\屏幕截图 2024-12-26 194224.png" alt="屏幕截图 2024-12-26 194224" style="width:330px"/>
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">product riview</span>
 
 
-​	<img src="images\屏幕截图 2024-12-26 194136.png" alt="屏幕截图 2024-12-26 194136" />
+​	<img src="images\屏幕截图 2024-12-26 194136.png" alt="屏幕截图 2024-12-26 194136" style="width:330px"/>
 
 
 - <span style="color:#f1b;font-weight:bold;background-color:#ccc;border-radius:10px;">search</span>
 
 
-​	<img src="images\屏幕截图 2024-12-26 192941.png" alt="屏幕截图 2024-12-26 192941" />
+​	<img src="images\屏幕截图 2024-12-26 192941.png" alt="屏幕截图 2024-12-26 192941" style="width:330px"/>
 
 these are just a small fragment of all the features, *download* to explore✨ more.
 
